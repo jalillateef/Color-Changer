@@ -19,4 +19,5 @@ I learned how the Math.floor() and Math.random() methods work.
 
 ![Screen Shot 2021-08-17 at 4 16 45 PM](https://user-images.githubusercontent.com/84736245/129794708-ef7be29d-f3d4-4d87-a276-db8432afdfdf.png)
 
+
   
