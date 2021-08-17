@@ -28,10 +28,12 @@ body{
 }
 
 #btn{
-    font-family: 'Allerta Stencil', sans-serif;
-    padding: 10px;
+    font-family: 'Montserrat', sans-serif;
+    padding: 15px;
+    color: blueviolet;
+    border: 3px solid black;
     background-color: white;
-    border-radius: 3px;
+    border-radius: 5px;
     cursor: pointer;
 }
 
