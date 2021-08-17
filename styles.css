@@ -1,0 +1,23 @@
+body, html{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.color{
+    display: flex;
+    justify-content: center;
+    margin: 5rem;
+}
+
+.button-container{
+    display: flex;
+    justify-content: center;
+    margin: 2rem;
+}
